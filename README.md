@@ -3,6 +3,16 @@
 ---
 A Showecase of Seaborn with the Palmer Penguins (Built-in Dataset) to practice clear, question‑driven visuals. No downloads required: sns.load_dataset("penguins").
 
+This project workflow is a data visualization showcase using Seaborn:
+
+Starts with data inspection (missing values, summary).
+
+Moves into grouped analysis (species, sex, island differences).
+
+Demonstrates a variety of Seaborn plots (bar, box, scatter, strip, pairplot).
+
+Helps practice EDA (exploratory data analysis) and visualization design.
+
 ---
 
 ## Try it out in Google Colab as primarily built here!
