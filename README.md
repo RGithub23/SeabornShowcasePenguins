@@ -29,6 +29,9 @@ Seaborn Showcase — Palmer Penguins.ipynb: Jupyter notebook
 
 ## Features
 
+Palmer Penguins (Built-in Dataset)
+
+
 ---
 ## Requirements
 
