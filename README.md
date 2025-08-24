@@ -26,14 +26,6 @@ Helps practice EDA (exploratory data analysis) and visualization design.
 Seaborn Showcase — Palmer Penguins.ipynb: Jupyter notebook
 
 ---
-
-## Features
-
-Palmer Penguins (Built-in Dataset)
-Categorical: species (Adelie, Chinstrap, Gentoo), island, sex
-Numeric: bill_length_mm, bill_depth_mm, flipper_length_mm, body_mass_g
-
----
 ## Requirements
 
 This Colab notebook automatically installs all necessary dependencies
